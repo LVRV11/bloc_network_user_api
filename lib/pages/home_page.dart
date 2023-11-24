@@ -1,4 +1,4 @@
-import 'package:bloc_network_example/widgets/user_list.dart';
+import 'package:bloc_network_user_api/widgets/user_list.dart';
 import 'package:flutter/material.dart';
 
 import '../widgets/action_buttons.dart';

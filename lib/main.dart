@@ -1,4 +1,4 @@
-import 'package:bloc_network_example/pages/home_page.dart';
+import 'package:bloc_network_user_api/pages/home_page.dart';
 import 'package:flutter/material.dart';
 
 void main() {
